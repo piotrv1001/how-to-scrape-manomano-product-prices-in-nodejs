@@ -2,6 +2,8 @@
 
 Use the [ManoMano Listings Scraper](https://apify.com/piotrv1001/manomano-listings-scraper) through Apify's Node.js client. This example calls an existing Actor; it does not implement a scraper.
 
+![ManoMano product listing dataset with brand, price, rating, seller, and URL columns](./manomano_listings_results.png)
+
 ## What this example does
 
 - Passes a small input to the Actor
